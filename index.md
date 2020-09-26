@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Welcome to The Knowledge Elephant
 
-You can use the [editor on GitHub](https://github.com/TheKnowledgeElephant/email-marketing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can find out more about what we do @ [The Knowledge Elephant](https://www.theknowledgeelephant.com?referrer=github1)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our latest SaaS offering is a [Powerful email marketing solution](https://www.theknowledgeelephant.com/bulk-email-service?referrer=github2) that's trusted by developers & loved by marketers. You can get started for free, upgrade to a flexible plan later.
 
-### Markdown
+### Automate Customer Emails
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Create email marketing campaigns like a pro with our easy-to-use features. Go beyond the inbox and connect with customers in new ways. Tens of thousands of companies around the world are using The Knowledge Elephant Email to send their emails.
+
+### Some of our features
 
 ```markdown
-Syntax highlighted code block
+Fully Managed Customer Portal
 
-# Header 1
-## Header 2
-### Header 3
+# Drag. Drop. Editing made easy
+- Our editor makes it easy to customize an email template and design professional, mobile-responsive emails that look great on every device
 
-- Bulleted
-- List
+# Advanced Contact Management
+- Import existing contacts, add new subscribers with ease and segment your lists based on subscriber activity
 
-1. Numbered
-2. List
+# Advanced Analytics
+- Measure opens, clicks, bounces, unsubscribes and more. Calculate the return on investment of every email you send
 
-**Bold** and _Italic_ and `Code` text
+# Your Own From Address
+- We work behind your brand. Every email you send will come from your own domain, without any trace of its origin
 
-[Link](url) and ![Image](src)
+# Campaigns management
+- Manage regular, autoresponder or recurring campaigns. Create campaign groups or custom campaign tags
+
+# Email templates
+- Create and categorise as many email templates as you need. Or use one of the ones made available by system administrators
+
+# Scheduling
+- We help you send email campaigns at precise times for maximum impact
+
+# Marketing Automation
+- Segment subscribers based on their activity and use autoresponders to send a chain of emails which builds subscriber advocacy
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheKnowledgeElephant/email-marketing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Start for free! Cancel anytime.
+[Powerful email marketing solution](https://www.theknowledgeelephant.com/bulk-email-service?referrer=github3)

@@ -1,12 +1,14 @@
 # The Knowledge Elephant
+![The Knowledge Elephant](https://www.theknowledgeelephant.com/images/logos/TKELogo.png)
 
 Powerful email marketing tools to help you grow. We are trusted by developers & loved by marketers. Get started for free, upgrade to a flexible plan later.
 
 Create email marketing campaigns like a pro with our easy-to-use features. Go beyond the inbox and connect with customers in new ways. Tens of thousands of companies around the world are using The Knowledge Elephant Email to send their emails.
 
-
 ### Start for free! Cancel anytime.
 [Powerful email marketing solution](https://www.theknowledgeelephant.com/bulk-email-service?referrer=github4)
+
+![The Knowledge Elephant](https://images.ctfassets.net/larlwooz4jxf/XdQTr8nSUbNJMGySNZYrh/be0f891f9eb37b85a638a615998a75d1/existing-templates.JPG)
 
 ### Find out more about what we do:
 
